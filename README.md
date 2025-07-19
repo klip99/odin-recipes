@@ -13,4 +13,3 @@ In this project, I will create and format several recipes that I personally enjo
 Through the completion of this project, I will have demonstrated the following skills:
 - **HTML**: Structuring web pages with proper elements and semantic tags.
 - **Content Organization**: Effectively organizing and presenting information in a clear and engaging manner.
-s
